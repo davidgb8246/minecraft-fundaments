@@ -1,0 +1,45 @@
+#!/bin/bash
+
+#
+# Script to install the minimun requirements for start a
+# Minecraft Server in Ubuntu.
+#
+# Run as root or insert `sudo -E` before `bash`:
+#
+# curl -sL https:// | bash -
+#
+# CONTRIBUTIONS TO THIS SCRIPT
+#
+# This script is built from a template in
+# https://github.com/davidgb8246/minecraft-fundaments/new/main
+# please don't submit pull requests against the built script.
+#
+
+exec_cmd "cd .."
+exec_cmd "mkdir java"
+exec_cmd "cd java"
+sleep 2
+exec_cmd "apt install git -y"
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
+exec_cmd ""
